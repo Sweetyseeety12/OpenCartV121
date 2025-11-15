@@ -1,0 +1,70 @@
+21:38:41.151 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\grouping.xml
+
+21:42:52.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\grouping.xml
+
+21:48:20.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+21:58:24.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+21:59:04.430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+11:00:39.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+11:00:45.240 [main] INFO  testCases.TC003_LoginDDT - ******  starting TC003_LoginDDT ********
+11:00:51.336 [main] INFO  testCases.TC003_LoginDDT - ******  Finished TC003_LoginDDT ********
+11:07:32.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\grouping.xml
+
+11:07:34.746 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Starting TC001_AccountRegestrationTest   ******
+11:07:34.984 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on MyAccount Link
+11:07:35.468 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on Register Link
+11:07:35.472 [main] INFO  testCases.TC001_AccountRegestrationTest - Providing customer details
+11:07:36.970 [main] INFO  testCases.TC001_AccountRegestrationTest - Validating expected message
+11:07:37.013 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Finished TC001_AccountRegestrationTest   ******
+11:12:31.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\grouping.xml
+
+11:12:36.310 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Starting TC001_AccountRegestrationTest   ******
+11:12:36.672 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on MyAccount Link
+11:12:37.106 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on Register Link
+11:12:37.106 [main] INFO  testCases.TC001_AccountRegestrationTest - Providing customer details
+11:12:38.577 [main] INFO  testCases.TC001_AccountRegestrationTest - Validating expected message
+11:12:38.623 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Finished TC001_AccountRegestrationTest   ******
+11:12:40.604 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:12:40.968 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccont
+11:12:41.286 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+11:12:41.287 [main] INFO  testCases.TC002_LoginTest - Providing existing User Details...
+11:12:42.260 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ******
+12:29:43.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+12:29:50.586 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Starting TC001_AccountRegestrationTest   ******
+12:29:51.461 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on MyAccount Link
+12:29:52.257 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on Register Link
+12:29:52.263 [main] INFO  testCases.TC001_AccountRegestrationTest - Providing customer details
+12:29:55.806 [main] INFO  testCases.TC001_AccountRegestrationTest - Validating expected message
+12:29:55.979 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Finished TC001_AccountRegestrationTest   ******
+12:29:59.127 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:29:59.948 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccont
+12:30:00.691 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+12:30:00.700 [main] INFO  testCases.TC002_LoginTest - Providing existing User Details...
+12:30:03.283 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ******
+12:32:51.824 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+12:34:28.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+12:35:47.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\yuva tpt\Workspace\Seleniumwebdriver\OpenCartV121\master.xml
+
+12:35:52.095 [main] INFO  testCases.TC001_AccountRegestrationTest - *****  Starting TC001_AccountRegestrationTest   ******
+12:35:52.780 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on MyAccount Link
+12:35:53.502 [main] INFO  testCases.TC001_AccountRegestrationTest - Clicked on Register Link
+12:35:53.504 [main] INFO  testCases.TC001_AccountRegestrationTest - Providing customer details
